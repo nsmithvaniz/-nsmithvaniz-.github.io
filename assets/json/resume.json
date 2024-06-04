@@ -9,7 +9,7 @@
     "summary": "Passionate and proactive, I'm driven to tackle challenges head-on. I actively seek opportunities to contribute to projects that push boundaries, particularly those that leverage machine learning to enhance health outcomes. Through my writing, I hope to support efforts toward a future that uses the power of technology as a bridge to extend quality healthcare to all.",
     "location": {
       "address": "29 July Road",
-      "postalCode": "MA 01776,
+      "postalCode": "01776,
       "city": "Sudbury",
       "countryCode": "US",
       "region": "Massachusetts"
@@ -139,10 +139,10 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
+        "Technical Writing",
+        "Discourse Analysis",
+        "Social Listening",
+        "Technical Documentation",
         "Quantum Communication",
         "Quantum Teleportation"
       ]
@@ -150,13 +150,13 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Spanish",
+      "fluency": "Advanced",
       "icon": ""
     }
   ],
