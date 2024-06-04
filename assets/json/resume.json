@@ -34,9 +34,9 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "Alpha Phi Omega",
+      "location": "New Orleans, LA",
+      "position": "Vice President ",
       "url": "https://example.com",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
@@ -47,7 +47,7 @@
   "education": [
     {
       "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
+      "location": "New Orleans, LA",
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
@@ -165,12 +165,12 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machine Learning",
+        "Health Disparities",
+        "Women's Reproductive Health",
+        "Writing",
+        "Communications",
+        "Research"
       ]
     }
   ],
