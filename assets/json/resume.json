@@ -135,16 +135,15 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Professional",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Technical Writing",
-        "Discourse Analysis",
         "Social Listening",
+        "Discourse Analysis",
         "Technical Documentation",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Community Outreach",
+        "Python (Beginner)"
       ]
     }
   ],
@@ -162,7 +161,7 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Professional",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Machine Learning",
