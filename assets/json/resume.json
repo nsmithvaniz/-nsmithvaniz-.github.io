@@ -48,13 +48,6 @@
       "summary": ["Develop and advance strategies to market the EmpowerU podcast. Analyze educational social platforms to improve outreach strategies. Communicate with other non-profit and educational organizations to establish partnerships."]
     },
     {
-      "name": "GLASS Boston",
-      "position": "Research Assistant",
-      "startDate": "2023-06",
-      "endDate": "2023-12",
-      "summary": ["Initiate, develop, and guide online health education training programs with engaging, informative workshops. Research and compile resource documentation for GLASS's website. Inform and produce marketing content for various social media profiles."]
-    },
-    {
       "name": "The Sexual Health Alliance",
       "position": "Content Writing Intern",
       "startDate": "2023-06",
@@ -88,6 +81,20 @@
       "startDate": "2023-03",
       "endDate": "2023-05",
       "summary": ["Conduct comprehensive research and craft a strategic activation document and presentation for the CEO, providing valuable insights in driving the conversion of providers into strategic partners. Drive patient acquisition through an outbound referral network development campaign. Manage outbound calls to assigned physicians’ offices and other healthcare providers within a CRM database. Follow-up with interested providers to further develop business relationships."]
+    },
+    {
+      "name": "Dassault Systemes",
+      "position": "Social Marketing Intern",
+      "startDate": "2022-06",
+      "endDate": "2022-08",
+      "summary": ["Specialize in content creation, composing 60+ posts on professional socials such as Twitter and LinkedIn. Create 50+ competitive social analyses, coverage summaries, promotional emails, and landing page descriptions."]
+    },
+    {
+      "name": "TheSocialTalks",
+      "position": "Technical Writing Intern",
+      "startDate": "2022-06",
+      "endDate": "2022-08",
+      "summary": ["Research and write about contemporary public health issues and policies such as gun laws, reversal of Roe V. Wade, sexual violence, and more. Publish 2-3 articles weekly."]
     }
   ],
   "volunteer": [
@@ -104,7 +111,7 @@
     {
       "institution": "Tulane University School of Public Health and Tropical Medicine",
       "location": "New Orleans, LA",
-      "url": "",
+      "url": "https://sph.tulane.edu/",
       "area": "Public Health",
       "studyType": "BSPH",
       "startDate": "2021-08",
