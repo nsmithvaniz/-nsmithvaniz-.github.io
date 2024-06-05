@@ -2,4 +2,7 @@ Hello! I'm Nicole, a public health student at Tulane University with a passion f
 
 29 July Road Sudbury, MA 01776
 
-[LinkedIn](https://www.linkedin.com/in/nicole-smith-vaniz/)
+[LinkedIn][def]
+
+
+[def]: https://www.linkedin.com/in/nicole-smith-vaniz/
