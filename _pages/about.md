@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Nicole, a public health student at Tulane University with a passion for writing and a growing interest in artificial intelligence. I've been a writer for as long as I can remember. In first grade, I asked my teacher for an extension on a story project and ended up turning in a 40-page story complete with a developed plot and characters. I believe writing has a unique power to inform and hopefully inspire, and while I am not sure what the future may hold, I aim to blend this passion with my public health career.
+Hello! I'm Nicole, a public health student at Tulane University with a passion for writing and a growing interest in artificial intelligence. I've been a writer for as long as I can remember. In first grade, I asked my teacher for an extension on a story project and ended up turning in a 40-page story complete with a developed plot and character growth arcs. I believe writing has a unique power to inform and hopefully inspire, and while I am not sure what the future may hold, I aim to blend this passion with my public health career.
 
 Recently, I took a course on artificial intelligence, which helped me discover my interest in machine learning. Recognizing I will have much to learn if I would like to take part in work involving ML, I have taken proactive steps to familiarize myself with computer science principles and programming languages. My pursuit of self-directed learning in computer science reflects my dedication to expanding my skill set and adapting so that I may contribute to the field.
 
