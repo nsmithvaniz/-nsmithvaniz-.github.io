@@ -179,16 +179,7 @@
               window.open("https://orcid.org/{{ site.orcid_id }}", "_blank");
             },
           },
-        {%- endif -%}
-        {%- if site.scholar_userid -%}
-          {
-            id: 'socials-google-scholar',
-            title: 'Google Scholar',
-            section: 'Socials',
-            handler: () => {
-              window.open("https://scholar.google.com/citations?user={{ site.scholar_userid }}", "_blank");
-            },
-          },
+       
         {%- endif -%}
         {%- if site.semanticscholar_id -%}
           {
