@@ -540,16 +540,7 @@
               window.open("https://www.zotero.org/{{ site.zotero_username }}", "_blank");
             },
           },
-        {%- endif -%}
-        {%- if site.rss_icon -%}
-          {
-            id: 'socials-rss',
-            title: 'RSS Feed',
-            section: 'Socials',
-            handler: () => {
-              window.open("{{ site.baseurl }}/feed.xml", "_blank");
-            },
-          },
+       
         {%- endif -%}
         {%- comment -%}
         {%- if site.wechat_qr -%}
